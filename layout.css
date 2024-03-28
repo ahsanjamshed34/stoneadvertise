@@ -1,0 +1,34 @@
+.button{
+    display: flex;
+width: 120px;
+padding: 12px 28px;
+justify-content: center;
+align-items: center;
+gap: 10px;}
+
+
+.google{
+    width: 50px;
+    height: 40px;
+}
+.image1{
+    width: 1441px;
+height: 1355.093px;
+flex-shrink: 0;
+}
+.padding{
+    padding-top: 100px;
+}
+.center{
+    text-align: center;
+}
+.footer{
+    bottom: 0;
+      width: 100%;
+      height: 60px; 
+      line-height: 60px; 
+      background-color: #EC367E;
+}
+.paddingbotton{
+    padding-bottom: 50px;
+}

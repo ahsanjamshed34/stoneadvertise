@@ -1,0 +1,95 @@
+.navbar-brand img {
+    max-height: 40px;
+    margin-right: 10px;
+}
+
+.navbar-nav .nav-link {
+    padding-right: 20px;
+    padding-left: 20px;
+}
+
+.button {
+    border-radius: 40px;
+    background: #EC367E;
+}
+
+.part1 {
+    background: rgba(255, 255, 255, 0.90);
+    backdrop-filter: blur(192.00999450683594px);
+}
+
+.part1h1 {
+    font-weight: 800;
+    line-height: 150%;
+    font-size: 56px;
+}
+
+.pink {
+    color: #EC367E;
+}
+
+.blue {
+    color: #24C6E3;
+}
+
+.google {
+    border-radius: 40px;
+    background: #EC367E;
+}
+
+.bg-color {
+    background-color: #EC367E;
+}
+
+button {
+    border: none;
+}
+
+button:hover {
+    background-color: #be1559;
+    color: white;
+}
+
+button a,
+button a:hover {
+    text-decoration: none;
+    color: white;
+}
+
+.part2 {
+    background: #FFF;
+}
+@media (max-width : 768px) {
+    .part1h1 {
+        font-weight: 600;
+        font-size: 29px;
+    }
+    
+}
+.logo{
+    width: 200px;
+    height: 72.84px;
+    flex-shrink: 0;
+}
+ .navbar-brand img {
+        max-width: 100%;
+        height: auto;
+      }
+
+
+.white{
+    color: white;
+}
+.pinks{
+    border-radius: 40px;
+    background: #EC367E;
+}
+.size{
+    color: #B7B7B7;
+text-align: center;
+font-family: Jost;
+font-size: 20px;
+font-style: normal;
+font-weight: 400;
+line-height: 80%; /* 16px */
+}
